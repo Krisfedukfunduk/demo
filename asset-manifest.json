@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shoop/static/css/main.f097c763.css",
+    "main.js": "/shoop/static/js/main.d07f82b7.js",
+    "index.html": "/shoop/index.html",
+    "main.f097c763.css.map": "/shoop/static/css/main.f097c763.css.map",
+    "main.d07f82b7.js.map": "/shoop/static/js/main.d07f82b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f097c763.css",
+    "static/js/main.d07f82b7.js"
+  ]
+}
